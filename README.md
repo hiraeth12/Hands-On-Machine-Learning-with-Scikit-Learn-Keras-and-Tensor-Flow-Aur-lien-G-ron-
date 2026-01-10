@@ -2,6 +2,7 @@
 
 <img src="https://m.media-amazon.com/images/I/81R5BmGtv-L._UF1000,1000_QL80_.jpg">
 
+- Sahrul Ridho Firdaus - *1103223009*
 ---
 
 ## Part 1 : The Fundamentals of Machine Learning
